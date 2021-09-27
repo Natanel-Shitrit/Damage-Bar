@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/65548905/134966349-e8ccb3cc-5895-4a9c-
 
 </details>
 
-## Visability Modes:
+## Visibility Modes:
 #### Change with `db_visibility_mode` ConVar.
 
 #### Default:
